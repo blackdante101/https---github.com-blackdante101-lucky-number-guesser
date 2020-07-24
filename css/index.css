@@ -1,0 +1,41 @@
+.chat{border-radius:20px;
+	background-color:lightblue;
+	float:left;
+	margin:20px;
+	
+}
+.chat2{
+	border-radius:20px;
+	background-color:lightpink;
+	
+	order:-1;
+	
+	
+}
+.chat2 p {
+	padding:10px;
+	text-align:center;
+	font-family:century gothic;
+	color:white;
+}
+.chat p {
+	padding:10px;
+	text-align:center;
+	font-family:century gothic;
+	color:white;
+}
+.textbox{width:100%;
+	background-color:tomato;
+	text-align:center;
+	position:fixed;
+	top:575px;
+	padding:10px;
+	right:1px;
+}
+.textbox input[type="text"]{
+	width:70%;
+	height:30px;
+}
+.textbox button {
+	height:30px;
+}
