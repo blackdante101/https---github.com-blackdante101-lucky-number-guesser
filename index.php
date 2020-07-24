@@ -67,7 +67,7 @@ elseif ($guess < $number) {
 }
 elseif ($number==$guess) {
 
-	echo "<p id='textb' style='color:green;'>Congrats you got the lucky number</p> ";
+	echo "<p id='textb' style='color:green;'>Congrats you got the lucky number</p>";
 }
 
  }
